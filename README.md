@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Wele Stats](https://wele-github-profile.vercel.app/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ram4gb?theme=dark&font=Roboto&ext=activity)
