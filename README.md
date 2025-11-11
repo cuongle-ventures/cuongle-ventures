@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Wele Stats](https://wele-github-profile.vercel.app/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ram4gb?theme=dark&font=Roboto&ext=activity)
+
+![Doulingo Stats](https://duolingo-stats-card.vercel.app/api?username=minhcuongle&theme=monokai&sort=xp)
