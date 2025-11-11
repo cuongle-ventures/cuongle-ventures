@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wele Stats](https://wele-github-profile.vercel.app/api/profile.svg)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ram4gb?theme=dark&font=Roboto&ext=activity)
 
 ![Doulingo Stats](https://duolingo-stats-card.vercel.app/api?username=minhcuongle&theme=monokai&sort=xp)
